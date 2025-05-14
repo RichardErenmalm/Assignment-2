@@ -1,0 +1,17 @@
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\bin\Debug\net8.0\InfrastructureLayer.deps.json
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\bin\Debug\net8.0\InfrastructureLayer.dll
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\bin\Debug\net8.0\InfrastructureLayer.pdb
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.csproj.AssemblyReference.cache
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.AssemblyInfoInputs.cache
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.AssemblyInfo.cs
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.csproj.CoreCompileInputs.cache
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\obj\Debug\net8.0\Infrastr.B5BC0072.Up2Date
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.dll
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\obj\Debug\net8.0\refint\InfrastructureLayer.dll
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.pdb
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\InfrastructureLayer\obj\Debug\net8.0\ref\InfrastructureLayer.dll

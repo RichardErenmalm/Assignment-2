@@ -1,0 +1,11 @@
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\erenm\Desktop\Systemutveckling\Skolprojekt\introduktion till OOP\Assignment-2\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
